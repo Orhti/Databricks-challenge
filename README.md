@@ -1,5 +1,3 @@
----
-
 # Databricks Challenge 🚀
 
 ## Databricks Learning Journey – Day 1
@@ -60,14 +58,4 @@ This learning initiative is supported by the data community and the following re
 * **Databricks** – [https://www.databricks.com](https://www.databricks.com)
 * **Codebasics** – [https://www.codebasics.io](https://www.codebasics.io)
 * **Indian Data Club** – [https://indiandataclub.com](https://indiandataclub.com)
-
----
-
-If you want, I can also:
-
-* Add **badges** (Databricks | PySpark | Learning Series)
-* Create a **Day-wise folder structure**
-* Write a **professional project description** for recruiters
-* Convert this into a **challenge-style README** (Day 1 / Day 2 / Day 3…)
-
 Just tell me how polished you want it to be.

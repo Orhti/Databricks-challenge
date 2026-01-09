@@ -58,4 +58,3 @@ This learning initiative is supported by the data community and the following re
 * **Databricks** – [https://www.databricks.com](https://www.databricks.com)
 * **Codebasics** – [https://www.codebasics.io](https://www.codebasics.io)
 * **Indian Data Club** – [https://indiandataclub.com](https://indiandataclub.com)
-Just tell me how polished you want it to be.
